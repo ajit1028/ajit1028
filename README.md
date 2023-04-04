@@ -23,4 +23,4 @@
  
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=ajit1028&show_icons=true&theme=tokyonight)
 <br/>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajit1028 &theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ajit1028&langs_count=5)](https://github.com/ajit1028/github-readme-stats)
