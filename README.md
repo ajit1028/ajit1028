@@ -31,26 +31,10 @@ I'm a passionate web developer with a keen interest in building dynamic and scal
 
 Feel free to connect with me on:
 
-- [LinkedIn](https://www.linkedin.com/in/yourprofile)
-- [Email](mailto:your.email@example.com)
+- [LinkedIn](https://www.linkedin.com/in/ajitmnnit)
+- [Email](mailto:ajeets1028@gmail.com)
 
-## 📝 Projects
 
-### 1. [Food-App](https://github.com/ajit1028/food-app)
-
-A food delivery application similar to Swiggy, built with React, Parcel, Tailwind CSS, and Redux Toolkit.
-
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
-
-### 2. [YouTube Clone](https://github.com/ajit1028/youtube-clone)
-
-A YouTube clone developed with React and Redux Toolkit, using TailwindCSS for styling.
-
-- **Frontend**: React, Tailwind CSS
-- **Backend**: Node.js, Express.js
-- **Database**: MongoDB
 
 ---
 
